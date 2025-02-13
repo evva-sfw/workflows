@@ -16,7 +16,7 @@ jobs:
             docs
             feat
             fix
-            pref
+            perf
             reafactor
             revert
             sec
