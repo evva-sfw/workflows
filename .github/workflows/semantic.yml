@@ -11,4 +11,4 @@ permissions:
 jobs:
   main:
     name: Validate PR title
-    uses: evva-sfw/workflows/workflow_calls/semantic.yml@main
+    uses: evva-sfw/workflows/.github/workflows/call_semantic.yml@main
