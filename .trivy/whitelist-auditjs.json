@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        {
+            "id": "CVE-0000-0000",
+            "reason": "Package name, description, links"
+        }
+    ]
+}
